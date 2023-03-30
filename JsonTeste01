@@ -1,0 +1,36 @@
+{
+"UserInfo": [
+  {
+    "UserId": "0",
+   "firstName": "Jefferson",
+    "Surname": "Andrade",
+    "PlayerDEsc": "mágico",
+    "pontuacao": "523",
+    "time": "vermelho"
+  },
+    {
+    "UserId": "1",
+   "firstName": "Maicon",
+    "Surname": "Pereira",
+    "PlayerDEsc": "guerreiro",
+    "pontuacao": "2223",
+    "time": "azul"
+  },
+  {
+      "UserId": "2",
+   "firstName": "Antonio",
+    "Surname": "Nunes",
+    "PlayerDEsc": "funileiro",
+    "pontuacao": "5452",
+    "time": "azul"
+  },
+  {
+      "UserId": "3",
+   "firstName": "Gustavo",
+    "Surname": "Borges",
+    "PlayerDEsc": "nadador",
+    "pontuacao": "5563",
+    "time": "amarelo"
+  }
+]
+}
